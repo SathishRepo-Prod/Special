@@ -81,12 +81,11 @@ body {
   }
   
   p a {
-    color: rgb(255, 255, 255);
-    font-size: 20px;
-    font-weight: 600;
-    opacity: 0.25;
-  }
-  
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 1;   /* change from 0.25 to 1 */
+}
   /* New styles for the calendar */
   #calendar {
     margin-top: 30px;
